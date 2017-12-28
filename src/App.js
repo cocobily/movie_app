@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Movie from './Movie';
+import Movie from './Movie.js';
 
 class App extends Component {
   // Render : componentWillMount() => render() => componentDidMount()
